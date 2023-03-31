@@ -1,6 +1,6 @@
 Name:		texlive-awesomebox
 Version:	57349
-Release:	1
+Release:	2
 Summary:	Draw admonition blocks in your documents, illustrated with FontAwesome icons
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/awesomebox
