@@ -3,7 +3,7 @@ Version:	57349
 Release:	2
 Summary:	Draw admonition blocks in your documents, illustrated with FontAwesome icons
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/awesomebox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/awesomebox
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/awesomebox.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/awesomebox.doc.r%{version}.tar.xz
